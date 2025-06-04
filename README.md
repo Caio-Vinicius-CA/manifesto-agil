@@ -10,8 +10,8 @@ Site educativo sobre o Manifesto Ágil para Desenvolvimento de Software, contend
 - Implementação moderna dos conceitos
 
 ## Tecnologias Utilizadas
-- HTML5 semântico
-- CSS3 moderno (Flexbox, Grid)
+- HTML5
+- CSS3 moderno
 - Design responsivo
 - Ícones do Font Awesome
 
